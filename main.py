@@ -1,3 +1,3 @@
-from base.an_introduction_to_writing_programs import introduction
+from base.console_input_output import input_output
 
-introduction()
+input_output()
